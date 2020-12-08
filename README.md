@@ -7,7 +7,9 @@ dailyfresh mall based on B2C model
   B2C即企业通过互联网为消费者提供一个新型的购物环境——网上商店，消费者通过网络在网上购物、网上支付等消费行为。
 
 ## 从0开始，立项、构建、开发到部署
-遇到BUG可参考个人总结：https://github.com/ahcfl/puzzle.git
+遇到BUG可参考笔记总结：
+https://github.com/ahcfl/puzzle.git
+https://github.com/ahcfl/dailyfresh/tree/main/notes
 
 一、技术栈
 
