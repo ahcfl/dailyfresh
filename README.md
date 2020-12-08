@@ -8,11 +8,15 @@ dailyfresh mall based on B2C model
 
 ## 从0开始，立项、构建、开发到部署
 
-遇到BUG可参考笔记总结：
+遇到bug可参考笔记总结：
 
 https://github.com/ahcfl/puzzle.git
 
 https://github.com/ahcfl/dailyfresh/tree/main/notes
+
+CSDN博客：
+
+https://blog.csdn.net/mmmmmCJP?spm=1011.2124.3001.5113
 
 一、技术栈
 
