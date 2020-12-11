@@ -31,12 +31,12 @@ https://blog.csdn.net/mmmmmCJP?spm=1011.2124.3001.5113
 二、技术架构
 
     1. 开发架构
-    采用BS结构, 即Browser/Server(浏览器/服务器)结构,构建一个web的网站商城系统, 其架构逻辑:
-    frame
+       采用BS结构, 即Browser/Server(浏览器/服务器)结构,构建一个web的网站商城系统, 
+       其架构逻辑:frame
 
     2. 部署架构
-    Nginx+uwsgi
-    deploy
+       Nginx+uwsgi
+       deploy
 
 三、主体模块
 
