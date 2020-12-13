@@ -366,7 +366,7 @@ class OrderPayView(View):
         alipay_public_key_string = open("/home/cfl/bj18/item/dailyfresh/apps/order/alipay_public_key.pem").read()
 
         alipay = AliPay(
-            appid="2021000116664811", # 应用id
+            appid="", # 应用id
             app_notify_url=None,  # 默认回调url
             # app_private_key_path=os.path.join(settings.BASE_DIR, 'apps/order/app_private_key.pem'),
             app_private_key_string=app_private_key_string,
@@ -425,7 +425,7 @@ class CheckPayView(View):
 
 
         alipay = AliPay(
-            appid="2021000116664811", # 应用id
+            appid="", # 应用id
             app_notify_url=None,  # 默认回调url
             # app_private_key_path=os.path.join(settings.BASE_DIR, 'apps/order/app_private_key.pem'),
             app_private_key_string=app_private_key_string,
